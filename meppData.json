@@ -1,10 +1,10 @@
 {
-    "corte": "2026-11-09",
-    "fechaTexto": "9 de noviembre de 2026",
-    "actualizadoEn": "2026-11-23T11:51:00-06:00",
+    "corte": "2026-11-10",
+    "fechaTexto": "10 de noviembre de 2026",
+    "actualizadoEn": "2026-11-23T12:06:08-06:00",
     "totales": {
-        "videos": 500,
-        "reproducciones": 115969241,
+        "videos": 522,
+        "reproducciones": 115969248,
         "seguidores": 325983
     },
     "cdts": [
@@ -12,8 +12,8 @@
             "id": "TAN",
             "nombre": "Tantakín",
             "color": "#60824f",
-            "videos": 100,
-            "reproducciones": 48199274,
+            "videos": 122,
+            "reproducciones": 48199281,
             "seguidores": 52875
         },
         {
